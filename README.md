@@ -45,7 +45,6 @@ Minimize inventory-related costs by accurately predicting future demand and opti
 | `Stock_Level`    | Inventory level on that date        |
 
 **Source**: [Kaggle - Demand Forecasting Dataset](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/data)  
-(*You can replace with your own dataset if needed*)
 
 ---
 
